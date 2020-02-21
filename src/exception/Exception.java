@@ -10,6 +10,9 @@ public class Exception {
 			System.out.println(e.getMessage());
 			System.out.println("next");
 			e.printStackTrace();
+			System.out.println("shalom ");
+			System.out.println("daniel");
+			System.out.println("done");
 			
 		}
 	}
